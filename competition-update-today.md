@@ -1,37 +1,30 @@
-# Competition Update – MedTech Market – May 13, 2026
+# Competition Update – MedTech Market – May 14, 2026
 
 ## tl;dr
-No new non-duplicate product launch or clearance from GE HealthCare, Philips, Canon Medical, United Imaging or Samsung Medison was identified within the validated 24-hour window. The most competition-relevant development is Brainomix and Boehringer Ingelheim expanding their CT-based pulmonary fibrosis AI partnership into a prospective U.S. multicenter study. This reinforces the strategic role of imaging AI as a therapy-enabling tool, not only a radiology productivity layer. SIR’s support for genicular artery embolization signals expanding procedural legitimacy for image-guided musculoskeletal interventions. Openwater’s focused-ultrasound research collaboration remains early-stage but indicates continued movement toward portable, noninvasive ultrasound-based neuromodulation platforms. Overall, the pattern is consistent with imaging moving deeper into pathway ownership: diagnosis, treatment selection, procedural expansion and longitudinal disease monitoring.
+- No new validated news from GE HealthCare, Philips, Canon Medical, United Imaging, or Samsung Medison was identified within the reviewed 24-hour window that was not already covered.
+- Two competition-relevant developments were identified outside the core competitor set but with implications for imaging demand, channel strategy, and modality positioning.
+- Lumexa’s expansion through health-system joint ventures signals continued consolidation of outpatient imaging capacity, especially around MRI and CT.
+- QT Imaging’s Q1 update shows early commercialization progress for radiation-free breast acoustic CT, supported by reimbursement and regulatory milestones.
+- The common pattern is that imaging competition is being shaped not only by scanner technology, but also by provider consolidation, reimbursement pathways, workflow software, and specialty-specific alternatives to incumbent modalities.
 
-## Brainomix and Boehringer Ingelheim Advance Strategic Partnership in Pulmonary Fibrosis
+## Lumexa acquires imaging center as part of new joint venture with UPMC
 
-**Author:** Brainomix  
-**Source:** [PR Newswire](https://www.prnewswire.com/news-releases/brainomix-and-boehringer-ingelheim-advance-strategic-partnership-in-pulmonary-fibrosis-302768599.html)  
-**Publication date:** May 12, 2026
+- **Author:** Marty Stempniak  
+- **Source:** [Radiology Business](https://radiologybusiness.com/topics/healthcare-management/healthcare-economics/lumexa-acquires-imaging-center-part-new-joint-venture-upmc)  
+- **Publication date:** May 13, 2026  
 
-Brainomix and Boehringer Ingelheim are expanding their partnership around Brainomix’s FDA-cleared e-Lung AI imaging platform for progressive pulmonary fibrosis. The next phase, PROGRESS-PPF, is a prospective multicenter U.S. study intended to assess whether routine use of e-Lung can support earlier diagnosis and scalable clinical impact. The collaboration builds on retrospective evidence suggesting the platform could identify radiologic progression substantially earlier than conventional local clinical diagnosis.
-
-**Strategic relevance:**  
-**Trend indicator / Opportunity.** The move highlights a competitive shift in CT AI from point-solution detection toward disease pathway enablement and pharmaceutical partnerships. For imaging vendors, this strengthens the case for thoracic CT analytics, longitudinal quantification and integrated clinical evidence generation as differentiators in chronic disease management.
-
-## New position statement highlights the growing role of genicular artery embolization for knee osteoarthritis
-
-**Author:** Society of Interventional Radiology  
-**Source:** [EurekAlert!](https://www.eurekalert.org/news-releases/1127907)  
-**Publication date:** May 12, 2026
-
-The Society of Interventional Radiology issued a position statement supporting genicular artery embolization as a minimally invasive option for selected patients with symptomatic knee osteoarthritis who have failed conservative therapy and are not candidates for, or want to delay, knee arthroplasty. The statement also calls for larger randomized trials to strengthen the evidence base and guide patient selection.
+Lumexa Imaging acquired an imaging center in Wexford, Pennsylvania, as part of a joint venture with UPMC, and indicated that additional de novo centers are planned under the partnership. The company also acquired a second center through a separate Advocate Health joint venture and now operates approximately 190 centers across 13 states, with roughly 85 centers run through hospital joint ventures. Lumexa reported nearly $253 million in Q1 2026 consolidated revenue, with same-center advanced imaging volumes across MRI and CT increasing by almost 6%.
 
 **Strategic relevance:**  
-**Trend indicator.** This may expand the addressable procedural base for interventional radiology and increase demand for efficient angiography workflows in outpatient and hospital settings. For angiography vendors, broader acceptance of musculoskeletal embolization could support positioning around lower-dose imaging, procedural guidance, throughput and economics in nontraditional IR indications.
+**Trend indicator / Risk.** The development reinforces the strategic importance of large outpatient imaging operators and health-system joint ventures as demand concentrators for advanced imaging equipment, enterprise imaging software, remote scanning tools, and service contracts. For OEMs, consolidation may increase the value of standardized fleet, workflow, and productivity propositions, but it also strengthens buyer leverage and raises the bar for measurable operational efficiency.
 
-## Openwater, Sharma Lab collaborate on LIFU neuromodulation research
+## QT Imaging Reports First Quarter 2026 Revenue of $6.5 Million
 
-**Author:** AuntMinnie.com staff writers  
-**Source:** [AuntMinnie](https://www.auntminnie.com/clinical-news/ultrasound/news/15824920/openwater-sharma-lab-collaborate-on-lifu-neuromodulation-research)  
-**Publication date:** May 12, 2026
+- **Author:** QT Imaging Holdings, Inc.  
+- **Source:** [StockTitan / SEC 8-K exhibit](https://www.stocktitan.net/sec-filings/QTI/8-k-qt-imaging-holdings-inc-reports-material-event-0ac9547a0769.html)  
+- **Publication date:** May 13, 2026  
 
-Openwater is partnering with the Sharma Lab at NC State and UNC-Chapel Hill to study low-intensity focused ultrasound neuromodulation using the Open-LIFU device. The work targets neurological and spinal cord applications, including transverse myelitis and essential tremor, with emphasis on noninvasive modulation rather than ablation.
+QT Imaging reported Q1 2026 revenue of $6.5 million, up 133% year over year, driven by shipment of 13 Breast Acoustic CT scanners. The company highlighted FDA 510(k) clearance for an updated scanner configuration intended to improve posterior breast tissue visualization, AMA approval of a Category III CPT code effective January 1, 2027, UAE regulatory clearance, and launch of the QT Imaging-Olea Viewer for multimodality breast imaging review. QT Imaging reaffirmed 2026 revenue guidance of approximately $39 million, while gross margin declined and the company remained loss-making.
 
 **Strategic relevance:**  
-**Observation.** The collaboration is early-stage, but it reflects continued experimentation around portable focused-ultrasound platforms beyond traditional imaging. It is relevant as a watch item for ultrasound-based therapeutic ecosystems, especially where hardware, software openness and research-network adoption could accelerate clinical exploration.
+**Observation / Opportunity.** QT Imaging remains a small challenger, but its progress is relevant because it combines a differentiated breast imaging modality, reimbursement pathway development, software workflow integration, and international distribution commitments. The technology is not yet a broad competitive threat to established mammography, ultrasound, or MRI portfolios, but it is a signal that breast imaging competition is expanding around patient comfort, dense-breast use cases, quantitative imaging, and radiation-free alternatives.
