@@ -1,43 +1,35 @@
-# Competition Update – MedTech Market – 2026-05-20
+# Competition Update – MedTech Market – 2026-05-21
 
 ## tl;dr
-- New competition-relevant activity in the last 24 hours is concentrated around workflow integration, AI-enabled care orchestration, and CT-to-cath-lab procedural guidance rather than new scanner hardware launches.
-- Siemens Healthineers is positioning CT-guided PCI as an end-to-end workflow category, linking coronary CT analysis with Artis angiography systems.
-- This creates competitive pressure in image-guided therapy by shifting differentiation from image quality alone toward integrated pre-procedural planning and intra-procedural execution.
-- Gray’s deployment at Gustave Roussy highlights growing demand for operational software that improves radiation therapy throughput without adding physical capacity.
-- The oncology workflow market is becoming strategically adjacent to imaging and therapy systems, especially where scheduling, machine utilization, and multidisciplinary care pathways constrain growth.
-- China’s reported acceleration of AI and remote imaging use reinforces the strategic importance of scalable digital infrastructure in emerging and high-volume markets.
-- No new validated items were identified for GE HealthCare, Philips, Canon Medical, United Imaging, or Samsung Medison that were both within the time window and not already covered in prior repository updates.
+- Only a limited number of validated, competition-relevant items were identified within the last 24-hour publication window.
+- The most relevant development is DeepHealth’s additional FDA and CE regulatory coverage across prostate, neuro and lumbar MRI AI, reinforcing RadNet’s strategy to combine imaging-service scale with proprietary AI workflow assets.
+- The DeepHealth item is strategically relevant because it moves AI from single-use diagnostic assistance toward multi-anatomy workflow orchestration and reporting support.
+- A new mammography-based long-term breast cancer risk model indicates continued competitive momentum in image-derived risk prediction, with potential implications for screening pathways and AI-enabled women’s health portfolios.
+- No new validated, in-window announcements were identified from GE HealthCare, Philips, Canon Medical, United Imaging or Samsung Medison that met the duplicate and competitive-relevance criteria.
+- Previously covered Siemens, Philips, Bracco/ACIST, Vortex, Brainomix and China healthcare AI topics were not repeated.
 
-## Siemens unveils CT-guided PCI workflow system
+## DeepHealth secures FDA clearance, CE marking for neuro, prostate AI
 
-**Author:** AuntMinnieEurope.com staff writers  
-**Source:** [AuntMinnieEurope](https://www.auntminnieeurope.com/clinical-news/interventional/news/15825601/siemens-healthineers-siemens-unveils-ctguided-pci-workflow-system)  
-**Publication date:** May 19, 2026
+**Author:** AuntMinnie.com staff writers  
+**Source:** [AuntMinnie](https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15825643/deephealth-deephealth-gets-fda-clearance-ce-marking-for-neuro-prostate-ai)  
+**Publication date:** May 20, 2026
 
-Siemens Healthineers introduced an integrated CT-guided percutaneous coronary intervention workflow combining Syngo.CT Coronary Cockpit on Syngo.via with Syngo PCI Connect on Artis angiography systems. The solution transfers pre-processed coronary CT angiography information into the cath lab, giving interventional cardiologists access to vessel anatomy, plaque characteristics, and stent-planning metrics during the procedure. AuntMinnieEurope notes that Syngo PCI Connect is pending FDA clearance, while Syngo.CT Coronary Cockpit is not available in the U.S.
+RadNet subsidiary DeepHealth secured CE marks for Neuro Suite Brain Health, Brain Age and LumbarMR, and both FDA 510(k) clearance and CE marking for its Prostate AI tool. The portfolio covers automated white-matter hyperintensity detection, brain structure segmentation, lumbar spine pathology detection and prostate lesion detection, risk classification, gland segmentation and PI-RADS-compliant reporting.
+
+The competitive significance is the breadth of regulatory progress across multiple MRI-based use cases. DeepHealth is positioning itself not only as a point-solution AI vendor but as a workflow and reporting layer that can be deployed across RadNet’s outpatient imaging footprint and potentially sold more broadly. The reported workflow-time reductions and integration with fusion biopsy systems support a value proposition centered on productivity, consistency and downstream procedural coordination.
 
 **Strategic relevance:** **Risk / Trend indicator**  
-This strengthens Siemens Healthineers’ positioning in image-guided therapy by connecting CT, advanced visualization, and angiography into a procedural workflow. The move targets a higher-value differentiation layer: reducing procedural uncertainty, planning complexity, radiation exposure, and cath lab inefficiency. Competitors in angiography, CT, and interventional cardiology workflows may need to respond with similarly integrated planning-to-guidance capabilities.
+DeepHealth’s regulatory expansion strengthens RadNet’s vertical model of combining imaging-center operations with proprietary AI. This increases competitive pressure on modality vendors and enterprise imaging platforms to demonstrate measurable workflow impact, not only algorithm performance.
 
-## Gustave Roussy Deploys GrayOS to Orchestrate Patient Pathways in Radiation Therapy
+## AI model predicts 10-year breast cancer risk
 
-**Author:** Gray Oncology Solutions  
-**Source:** [Newswire Canada](https://www.newswire.ca/news-releases/gustave-roussy-deploys-grayos-to-orchestrate-patient-pathways-in-radiation-therapy-882076138.html)  
-**Publication date:** May 19, 2026
+**Author:** Amerigo Allegretto  
+**Source:** [AuntMinnie](https://www.auntminnie.com/clinical-news/womens-imaging/article/15825649/ai-model-predicts-10year-breast-cancer-risk)  
+**Publication date:** May 20, 2026
 
-Gray announced deployment of its GrayOS care orchestration platform at Gustave Roussy to optimize radiation therapy operations. The software interfaces with existing systems including MOSAIQ and DxCare and is intended to optimize appointment planning based on clinical constraints, resources, and departmental operating rules. The announcement states that Gustave Roussy treated more than 4,200 radiation therapy patients in 2025 across more than 50,000 sessions, and that deploying institutions report 5% to 15% more patients treated with constant resources and an 80% reduction in appointment coordination time.
+A mammography-based AI model developed by researchers led by Karolinska Institute demonstrated stronger 10-year breast cancer risk prediction than established clinical models and the Mirai AI model across diverse cohorts. The model uses image-derived features from digital mammograms to support longer-term risk stratification, with reported AUCs around 0.72 for invasive cancers in two validation cohorts and 0.70 in an additional external dataset.
 
-**Strategic relevance:** **Opportunity / Trend indicator**  
-This is a clear signal that capacity, scheduling, and care-pathway orchestration are becoming strategic buying criteria in oncology. For imaging and therapy vendors, workflow software can increasingly influence account control and system value perception, especially where radiation therapy capacity is constrained. The relevance extends beyond radiotherapy into imaging operations, where similar utilization and coordination bottlenecks exist.
+While this is research rather than a commercial launch, it is competition-relevant because breast imaging AI is shifting from detection support toward longitudinal risk prediction and prevention-oriented screening. If validated in broader real-world settings, this type of model could influence product roadmaps for mammography AI vendors, women’s health platforms and imaging providers pursuing personalized screening pathways.
 
-## China accelerates AI application in healthcare
-
-**Author:** Xinhua  
-**Source:** [People’s Daily Online](https://en.people.cn/n3/2026/0519/c90000-20457835.html)  
-**Publication date:** May 19, 2026
-
-Xinhua reports accelerating AI adoption across Chinese healthcare, including medical image interpretation, clinical decision support, and disease-risk prediction. The article states that China had released approximately 300 medical large models as of May 1, 2025, and that county-level remote medical imaging services had handled more than 68 million cases. It also highlights policy support through national guidance promoting AI tools to improve healthcare quality.
-
-**Strategic relevance:** **Trend indicator**  
-China remains a strategically important market for AI-enabled imaging scale-up, especially in remote diagnostics and lower-tier healthcare settings. The reported volume of remote imaging cases indicates that competitive differentiation may increasingly depend on scalable digital platforms, AI-enabled workflow support, and distributed-service models rather than modality hardware alone. This is relevant for multinational vendors competing against domestic players with strong localization and platform ambitions.
+**Strategic relevance:** **Trend indicator / Opportunity**  
+The result supports the strategic direction toward risk-stratified screening and image-derived predictive analytics. Vendors with mammography installed bases, AI ecosystems or population-health partnerships may gain advantage if they can translate similar capabilities into regulated, workflow-integrated products.
