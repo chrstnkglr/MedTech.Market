@@ -1,35 +1,48 @@
-# Competition Update – MedTech Market – 2026-05-21
+# Competition Update – MedTech Market – May 22, 2026
 
 ## tl;dr
-- Only a limited number of validated, competition-relevant items were identified within the last 24-hour publication window.
-- The most relevant development is DeepHealth’s additional FDA and CE regulatory coverage across prostate, neuro and lumbar MRI AI, reinforcing RadNet’s strategy to combine imaging-service scale with proprietary AI workflow assets.
-- The DeepHealth item is strategically relevant because it moves AI from single-use diagnostic assistance toward multi-anatomy workflow orchestration and reporting support.
-- A new mammography-based long-term breast cancer risk model indicates continued competitive momentum in image-derived risk prediction, with potential implications for screening pathways and AI-enabled women’s health portfolios.
-- No new validated, in-window announcements were identified from GE HealthCare, Philips, Canon Medical, United Imaging or Samsung Medison that met the duplicate and competitive-relevance criteria.
-- Previously covered Siemens, Philips, Bracco/ACIST, Vortex, Brainomix and China healthcare AI topics were not repeated.
+- The last 24 hours produced limited but relevant competitive activity, led by GE HealthCare expanding clinical-research depth in CT, molecular imaging and theranostics.
+- GEHC’s UW Medicine collaboration is strategically relevant because it connects modality innovation with clinical evidence generation in high-value workflows such as oncology, cardiology and theranostics.
+- Digital pathology consolidation continued as Grundium acquired Visiopharm, combining slide scanning hardware with AI-driven pathology software.
+- This reinforces a broader platformization pattern: imaging hardware players are moving toward integrated diagnostic ecosystems with workflow, AI and enterprise scalability as differentiators.
+- Academic AI activity in cardiac MRI also remains strategically relevant, as report-trained foundation-model approaches could influence future automation expectations in advanced MR workflows.
+- No new validated competition-relevant items were identified for Philips, Canon Medical, United Imaging or Samsung Medison within the 24-hour window that were not already covered in prior repository updates.
 
-## DeepHealth secures FDA clearance, CE marking for neuro, prostate AI
+## GEHC, UW Medicine Radiology launch imaging collaboration
 
 **Author:** AuntMinnie.com staff writers  
-**Source:** [AuntMinnie](https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15825643/deephealth-deephealth-gets-fda-clearance-ce-marking-for-neuro-prostate-ai)  
-**Publication date:** May 20, 2026
+**Source:** [AuntMinnie](https://www.auntminnie.com/clinical-news/ct/article/15825752/ge-healthcare-gehc-uw-medicine-radiology-launch-imaging-collaboration)  
+**Publication date:** May 21, 2026
 
-RadNet subsidiary DeepHealth secured CE marks for Neuro Suite Brain Health, Brain Age and LumbarMR, and both FDA 510(k) clearance and CE marking for its Prostate AI tool. The portfolio covers automated white-matter hyperintensity detection, brain structure segmentation, lumbar spine pathology detection and prostate lesion detection, risk classification, gland segmentation and PI-RADS-compliant reporting.
+GE HealthCare and the University of Washington Department of Radiology launched a strategic imaging research collaboration focused on CT and molecular imaging technologies for cardiology, oncology and theranostics workflows. The collaboration builds on a long-standing relationship that has already contributed to more than 80 research projects and clinical input for GEHC’s Discovery and Omni PET/CT platforms.
 
-The competitive significance is the breadth of regulatory progress across multiple MRI-based use cases. DeepHealth is positioning itself not only as a point-solution AI vendor but as a workflow and reporting layer that can be deployed across RadNet’s outpatient imaging footprint and potentially sold more broadly. The reported workflow-time reductions and integration with fusion biopsy systems support a value proposition centered on productivity, consistency and downstream procedural coordination.
+The work is structured around two programs: one for spectral CT evidence generation and workflow automation, and another for molecular imaging and theranostics, including deep learning for treatment planning, clinical trial matching and oncology image processing.
 
-**Strategic relevance:** **Risk / Trend indicator**  
-DeepHealth’s regulatory expansion strengthens RadNet’s vertical model of combining imaging-center operations with proprietary AI. This increases competitive pressure on modality vendors and enterprise imaging platforms to demonstrate measurable workflow impact, not only algorithm performance.
+**Strategic relevance:**  
+**Opportunity / Competitive signal.** GEHC is strengthening the clinical-evidence pipeline around premium CT, PET/CT and theranostics workflows. The collaboration supports differentiation beyond hardware specifications by tying modality innovation to clinical validation, workflow automation and oncology decision support.
 
-## AI model predicts 10-year breast cancer risk
+## Grundium Acquires Visiopharm to Create Integrated Precision Pathology Platform
 
-**Author:** Amerigo Allegretto  
-**Source:** [AuntMinnie](https://www.auntminnie.com/clinical-news/womens-imaging/article/15825649/ai-model-predicts-10year-breast-cancer-risk)  
-**Publication date:** May 20, 2026
+**Author:** Grundium  
+**Source:** [Grundium](https://www.grundium.com/news/grundium-and-visiopharm-unite-to-advance-precision-pathology/)  
+**Publication date:** May 21, 2026
 
-A mammography-based AI model developed by researchers led by Karolinska Institute demonstrated stronger 10-year breast cancer risk prediction than established clinical models and the Mirai AI model across diverse cohorts. The model uses image-derived features from digital mammograms to support longer-term risk stratification, with reported AUCs around 0.72 for invasive cancers in two validation cohorts and 0.70 in an additional external dataset.
+Grundium acquired Visiopharm to combine digital slide scanning with AI-driven precision pathology software. The combined platform is positioned to support diagnostic laboratories, biopharmaceutical development, translational research, biomarker workflows and companion diagnostic programs. Grundium stated that both companies’ products will continue to be available independently while also being integrated for customers seeking broader workflows.
 
-While this is research rather than a commercial launch, it is competition-relevant because breast imaging AI is shifting from detection support toward longitudinal risk prediction and prevention-oriented screening. If validated in broader real-world settings, this type of model could influence product roadmaps for mammography AI vendors, women’s health platforms and imaging providers pursuing personalized screening pathways.
+Visiopharm brings an established software footprint, including diagnostic algorithms cleared under IVDR for EU and UK customers, while Grundium contributes compact digital pathology scanner technology. The transaction reflects continued movement toward end-to-end digital diagnostics platforms that combine image acquisition, AI analysis and workflow scalability.
 
-**Strategic relevance:** **Trend indicator / Opportunity**  
-The result supports the strategic direction toward risk-stratified screening and image-derived predictive analytics. Vendors with mammography installed bases, AI ecosystems or population-health partnerships may gain advantage if they can translate similar capabilities into regulated, workflow-integrated products.
+**Strategic relevance:**  
+**Trend indicator / Competitive risk.** Although outside traditional radiology modalities, this deal is relevant because pathology is converging with imaging, AI and enterprise diagnostic workflows. The acquisition reinforces the competitive importance of integrated hardware-software platforms and may increase pressure on imaging vendors to connect radiology, pathology and oncology data workflows.
+
+## Carnegie Mellon University and Cleveland Clinic Develop AI System to Interpret Cardiac MRI Scans with Enhanced Accuracy
+
+**Author:** Business Wire  
+**Source:** [Business Wire via STT Info](https://www.sttinfo.fi/tiedote/72063041/carnegie-mellon-university-and-cleveland-clinic-develop-ai-system-to-interpret-cardiac-mri-scans-with-enhanced-accuracy?publisherId=58763726)  
+**Publication date:** May 21, 2026
+
+Carnegie Mellon University and Cleveland Clinic developed CMR-CLIP, an AI system for cardiac MRI interpretation that uses existing radiology reports rather than manually labeled training datasets. The system was trained on large-scale cardiac MRI data and is intended to address the shortage of specialized cardiac MRI interpretation capacity.
+
+The development is not a commercial product announcement or regulatory clearance, but it is relevant because it points to a potential direction for advanced MR AI: domain-specific foundation models trained from routine clinical documentation and imaging data.
+
+**Strategic relevance:**  
+**Trend indicator.** Cardiac MR remains technically demanding and operator-dependent. If validated and commercialized, report-trained foundation-model approaches could influence future expectations for MR workflow automation, interpretation support and accessibility in specialized cardiac imaging.
