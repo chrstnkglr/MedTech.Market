@@ -1,43 +1,71 @@
-# Competition Update – MedTech Market – 2026-05-28
+# Competition Update – MedTech Market – 2026-05-29
 
 ## tl;dr
-GE HealthCare strengthened its MRI software ecosystem through a global distribution and licensing agreement with NordicNeuroLab, adding advanced neuroimaging workflow capabilities around fMRI, diffusion imaging and post-processing. Siemens Healthineers moved to differentiate acute stroke workflows by partnering with Cercare Medical to bring automated perfusion analysis into cone-beam CT workflows in the angiography suite. Subtle Medical received FDA clearance for AI-powered PET enhancement software, reinforcing the market trend toward software-led productivity gains on existing scanner fleets. The common pattern is continued competitive pressure to improve imaging throughput, workflow integration and installed-base value without requiring full hardware replacement. AI-enabled reconstruction, analysis and workflow tools remain central to differentiation across MR, angiography and molecular imaging. Vendor ecosystems are becoming more strategically important as manufacturers and specialist software companies combine domain-specific algorithms with global commercial reach. For imaging OEMs, these moves increase the need to defend modality platforms not only through image quality, but also through embedded software, interoperability and procedural efficiency.
+- The last 24 hours produced several competition-relevant moves, led by radiology workflow platforms, MRI patient-experience differentiation, molecular imaging software, and radiopharmaceutical supply-chain positioning.
+- Sirona Medical’s five-year global deployment with Everlight Radiology is the most strategically significant item, as it moves cloud-native PACS, reporting, worklist, and AI orchestration into a large multinational teleradiology network.
+- Philips is extending MRI differentiation beyond scanner performance by embedding Disney content into its Ambient Experience platform, with claimed workflow benefits from fewer pauses and lower pediatric stress.
+- NewVue’s native AI-driven reporting launch reinforces the market shift from point AI tools toward integrated radiologist workspaces.
+- Hermes Medical’s Health Canada clearance expands competitive software activity in molecular imaging and theranostics, particularly around dosimetry and quantitative workflows.
+- Eckert & Ziegler’s lead-212 supply partnership with Thor Medical highlights isotope access as an increasingly strategic control point in radiopharmaceutical competition.
+- Conavi’s update confirms progress toward U.S. commercialization of a hybrid IVUS-OCT platform, relevant to image-guided coronary intervention competition.
+- No duplicate URLs or already-covered topics from the supplied repository context were included.
 
-## NordicNeuroLab and GE HealthCare Enter Strategic Software License and Distribution Agreement to Advance Neuroimaging Worldwide
+## Disney and Philips bring together beloved storytelling and innovative technology to support kids undergoing MRI exams
 
-Author: NordicNeuroLab  
-Source: [PharmiWeb / ACCESS Newswire](https://www.pharmiweb.com/press-release/2026-05-27/nordicneurolab-and-ge-healthcare-enter-strategic-software-license-and-distribution-agreement-to-adva)  
-Publication date: May 27, 2026
+**Author:** Philips  
+**Source:** [Philips](https://www.usa.philips.com/a-w/about/news/archive/standard/news/press/2026/disney-and-philips-bring-together-beloved-storytelling-and-innovative-technology-to-support-kids-undergoing-mri-exams.html)  
+**Publication date:** May 28, 2026
 
-NordicNeuroLab announced a strategic software license and distribution agreement with GE HealthCare covering integration, distribution and support of NordicNeuroLab neuroimaging software within GE HealthCare’s MRI ecosystem. The agreement includes functional MRI solutions such as nordicMEDiVA and nordicAktiva, selected MRI hardware and patient comfort solutions, with a global framework across authorized markets.
+Philips and Disney announced that Disney stories and characters will be integrated into Philips Ambient Experience for MRI across facilities in 87 countries. The offering targets pediatric MRI, where patient anxiety, movement, scan interruptions, repeat imaging, and sedation risk can materially affect throughput and cost. Philips cited a multicenter European study in which stress levels among children aged 6-10 fell by 43% after scans and scan pauses declined by 63% versus procedures without the intervention.
 
-The move enhances GE HealthCare’s MR value proposition beyond scanner hardware by adding specialized neuro post-processing, visualization and collaboration capabilities. It also supports more standardized deployment and lifecycle support for advanced neuroimaging workflows across clinical and research environments.
+**Strategic relevance:** Trend indicator / Opportunity. Philips is strengthening MRI differentiation through patient experience and workflow efficiency rather than scanner hardware alone. For competitors, this reinforces the need to address pediatric compliance, repeat-scan reduction, and care-environment design as part of MRI value propositions.
 
-**Strategic relevance**  
-Trend indicator / Risk: GE HealthCare is reinforcing its MR platform strategy through software ecosystem expansion, increasing competitive pressure on other MRI vendors to offer integrated advanced neuroimaging workflows rather than standalone scanner performance alone.
+## Sirona Medical and Everlight Radiology Announce Global Partnership, Transforming Care for Millions of Patients
 
-## Siemens, Cercare collaborate on stroke imaging
+**Author:** Sirona Medical  
+**Source:** [PR Newswire](https://www.prnewswire.com/news-releases/sirona-medical-and-everlight-radiology-announce-global-partnership-transforming-care-for-millions-of-patients-302783951.html)  
+**Publication date:** May 28, 2026
 
-Author: AuntMinnie.com staff writers  
-Source: [AuntMinnie](https://www.auntminnie.com/clinical-news/ct/news/15826113/siemens-healthineers-siemens-cercare-collaborate-on-stroke-imaging)  
-Publication date: May 27, 2026
+Sirona Medical signed a five-year strategic partnership with Everlight Radiology to deploy Sirona’s RadOS platform across Everlight’s operations in Australia, New Zealand, Ireland, the U.K., the UAE, and South Africa. The deployment will replace existing PACS and reporting solutions for approximately 800 radiologists serving around 350 hospitals. The companies also plan to develop agentic AI automations across clinical, administrative, and operational workflows.
 
-Siemens Healthineers and Cercare Medical will collaborate globally to accelerate adoption of cone-beam CT perfusion imaging in acute stroke care. The collaboration combines Cercare Medical’s Neurosuite automated perfusion analysis platform for CT, MRI and cone-beam CT with Siemens’ Syngo DynaCT Multiphase acquisition protocol.
+**Strategic relevance:** Risk / Trend indicator. The deal signals accelerating enterprise adoption of cloud-native, unified radiology platforms that combine viewing, reporting, worklists, archive, and AI orchestration. This can pressure traditional imaging IT vendors and modality vendors whose software strategies remain fragmented or dependent on local deployments.
 
-The strategic focus is workflow compression in time-critical stroke intervention. By enabling perfusion and metabolic imaging directly in the angiography suite, the approach aims to reduce patient transfers and support tissue viability assessment during and after thrombectomy.
+## NewVue Launches Native Reporting in Radiologist Cockpit
 
-**Strategic relevance**  
-Risk / Opportunity: Siemens is positioning angiography as a broader stroke workflow platform, not only an interventional imaging system. This raises the competitive bar for integrated neurovascular workflows, especially where hospitals evaluate angio suite productivity, door-to-reperfusion timing and procedural decision support.
+**Author:** Imaging Technology News staff  
+**Source:** [Imaging Technology News](https://www.itnonline.com/content/newvue-launches-native-reporting-radiologist-cockpit%C2%A0)  
+**Publication date:** May 28, 2026
 
-## FDA Clears Subtle Medical's Image Acceleration, Enhancement Software
+NewVue launched native AI-driven reporting within its Radiologist Cockpit platform. The update connects intelligent case assignment, automated clinical context, AI-assisted reporting, EHR data retrieval through the ERIK AI agent, and automated downstream workflows such as critical result routing. The positioning is explicitly workflow-oriented, aiming to reduce radiologists’ dependence on multiple separate applications.
 
-Author: Imaging Technology News staff  
-Source: [Imaging Technology News](https://www.itnonline.com/content/fda-clears-subtle-medicals-image-acceleration-enhancement-software)  
-Publication date: May 27, 2026
+**Strategic relevance:** Trend indicator. Radiology software competition is moving toward unified interpretation environments rather than standalone reporting, PACS, or AI modules. This increases pressure on incumbent imaging IT platforms to prove workflow consolidation, not only AI feature availability.
 
-Subtle Medical received FDA clearance for SubtleHD(PET), an AI-powered PET image enhancement and acceleration solution for PET/CT and PET/MR workflows. The software is designed to improve image quality, support all FDA-approved radiotracers and enable PET imaging times up to 75% faster on existing scanners.
+## Health Canada clears latest Hermia molecular imaging update
 
-The clearance expands Subtle Medical’s PET software portfolio beyond its existing SubtlePET installed base and targets imaging providers using advanced radiotracers, theranostics programs and health systems with cyclotron infrastructure. The competitive significance lies in improving productivity and image quality through software upgrades rather than new scanner purchases.
+**Author:** AuntMinnie.com staff writers  
+**Source:** [AuntMinnie](https://www.auntminnie.com/clinical-news/molecular-imaging/news/15826255/health-canada-clears-latest-hermia-molecular-imaging-update)  
+**Publication date:** May 28, 2026
 
-**Strategic relevance**  
-Trend indicator: Vendor-neutral AI enhancement tools continue to challenge modality OEMs by capturing workflow and productivity value on installed scanner fleets. This may increase pressure on PET/CT and PET/MR vendors to embed comparable AI acceleration capabilities natively or partner more aggressively with specialist software providers.
+Hermes Medical Solutions received Health Canada approval for the latest Hermia molecular imaging and dosimetry software release. The authorized capabilities include enhanced SIRT dosimetry with CT-based organ segmentation, live dose optimization, multitarget planning, automated 3D lung shunt calculations, deformable registration for post-therapy assessment, and lung lobe quantification combining CT segmentation with SPECT perfusion and ventilation imaging.
+
+**Strategic relevance:** Opportunity / Trend indicator. Molecular imaging competition is increasingly tied to quantitative software, dosimetry, and theranostics workflow support. Regulatory expansion in Canada strengthens Hermes’ position in nuclear medicine software and underscores the strategic importance of modality-agnostic PET/CT, SPECT/CT, PET/MR, and RTDOSE platforms.
+
+## Thor Medical Enters Partnership with Eckert & Ziegler to Enable Access of Lead-212 for the Pharmaceutical Industry
+
+**Author:** Thor Medical ASA  
+**Source:** [Thor Medical](https://www.thormedical.com/artikler/thor-medical-enters-partnership-with-eckert-ziegler-to-enable-access-of-lead-212-for-the-pharmaceutical-industry)  
+**Publication date:** May 28, 2026
+
+Thor Medical signed a collaboration and supply agreement with Eckert & Ziegler for lead-212, initially for preclinical research and development. The companies will explore broader integration of isotope production and radiopharmaceutical manufacturing capabilities to scale production capacity over time. Thor Medical expects its first commercial production facility, AlphaOne, to begin production in Q3 2026.
+
+**Strategic relevance:** Trend indicator / Risk. Radiopharmaceutical growth is making isotope access a strategic bottleneck. Companies that secure alpha-emitter supply and manufacturing capacity may gain leverage across theranostics development, imaging-linked therapy workflows, and partnerships with pharmaceutical developers.
+
+## Conavi Medical Reports Fiscal Second Quarter 2026 Results and Operational Highlights
+
+**Author:** Conavi Medical Corp.  
+**Source:** [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/28/3302792/0/en/conavi-medical-reports-fiscal-second-quarter-2026-results-and-operational-highlights.html)  
+**Publication date:** May 28, 2026
+
+Conavi Medical reported fiscal Q2 2026 results and highlighted FDA 510(k) clearance of its next-generation Novasight Hybrid IVUS-OCT imaging system, received after quarter-end on April 20, 2026. The system combines intravascular ultrasound and optical coherence tomography in one co-registered coronary imaging workflow. Conavi is preparing for a targeted U.S. commercial launch in H2 2026.
+
+**Strategic relevance:** Observation / Risk. Hybrid intravascular imaging may increase competitive pressure in image-guided coronary intervention by combining structural depth and high-resolution surface detail in one workflow. Commercial execution remains the key variable, but the clearance and launch preparation are relevant for cardiovascular imaging and interventional platform competitors.
