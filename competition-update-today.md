@@ -1,42 +1,28 @@
-# Competition Update – MedTech Market – June 5, 2026
+# Competition Update – MedTech Market – 2026-06-06
 
 ## tl;dr
-- GE HealthCare gained FDA 510(k) clearance for an AI-enabled radiation therapy planning tool, extending its MIM software portfolio and reinforcing oncology workflow automation as a competitive battleground.
-- The inclusion of a Predetermined Change Control Plan is strategically relevant because it may allow faster model updates across anatomies and modalities.
-- Philips announced a seven-year alliance with WellSpan Health that makes Philips the preferred imaging vendor across CT, MR, digital X-ray, ultrasound and image-guided therapy.
-- The Philips-WellSpan deal combines fleet standardization, lifecycle management, AI workflow validation and co-development, showing how long-term enterprise agreements are becoming platforms for innovation access.
-- QT Imaging received Saudi regulatory clearance for its Breast Acoustic CT scanner, supporting commercialization in the Gulf and signaling continued interest in radiation-free breast imaging alternatives.
-- Overall, the last 24 hours point to competition shifting from standalone modality launches toward integrated software, AI-enabled workflow productivity, regulatory agility and long-term installed-base capture.
+Only limited validated competition-relevant news was identified within the last 24 hours. The most material update is Sectra’s fiscal-year report, which confirms continued momentum in enterprise imaging, cloud recurring revenue and AI-enabled medical IT. Strategically, this reinforces that competitive differentiation is shifting beyond modality hardware toward secure, cloud-based platforms, recurring software models and integrated AI workflows. AuntMinnie’s SNMMI roundup also points to continued market broadening in molecular imaging, with cardiac PET, brain imaging and radiopharmaceutical therapy dosimetry gaining visibility alongside oncology. No new validated 24-hour regulatory clearance or major strategic move from GE HealthCare, Philips, Canon Medical, United Imaging or Samsung Medison was identified that was not already covered in existing repository updates.
 
-## GE HealthCare receives FDA 510(k) clearance for MIM Contour ProtégéAI+ 2.0, advancing AI-enabled radiation therapy planning with expanded clinical capabilities
+## Sectra’s year-end report 2025/2026: Long-term investments drive growth and profit
 
-**Author:** GE HealthCare  
-**Source:** [Business Wire / GE HealthCare](https://www.businesswire.com/news/home/20260603629728/en/)  
-**Publication date:** June 4, 2026
+- **Author:** Sectra AB
+- **Source:** [Sectra Investor Relations](https://investor.sectra.com/news-and-press-releases/?item=252927D41F9D9489)
+- **Publication date:** June 5, 2026, 08:15 CEST
 
-GE HealthCare received FDA 510(k) clearance for MIM Contour ProtégéAI+ 2.0, an AI-enabled auto-contouring software tool for radiation oncology treatment planning. The update adds an MR Brain model and an updated CT Male Pelvis model, expanding the software’s clinical scope across relevant planning use cases. The clearance also includes a Predetermined Change Control Plan, giving GE HealthCare a regulatory pathway to introduce future model updates and enhancements more efficiently. Strategically, this strengthens GE HealthCare’s post-MIM acquisition oncology software position and links imaging data, AI automation and therapy planning into a broader workflow proposition.
+Sectra reported historically high sales and profit for fiscal year 2025/2026, with full-year net sales up 9.3% to SEK 3.54 billion and operating profit up 15.9% to SEK 710.6 million. Cloud recurring revenue increased 54.9% to SEK 915.8 million, while total recurring revenue moved close to 70% of revenue. The company explicitly links its performance to digitization, AI and rising security requirements in medical IT and cybersecurity.
 
-**Strategic relevance:**  
-**Risk / Trend indicator.** GE HealthCare is using regulatory clearance and PCCP-based iteration to accelerate AI workflow automation in oncology, increasing competitive pressure on vendors that rely on slower software update cycles or less integrated treatment-planning ecosystems.
+The update is competition-relevant because Sectra is demonstrating that enterprise imaging vendors can scale through cloud and recurring service models, not only through PACS replacement cycles. Its combination of imaging IT, cybersecurity and AI positioning increases pressure on broader MedTech competitors to offer secure, interoperable, AI-ready platforms rather than standalone modality or application-level solutions.
 
-## WellSpan Health and Philips Announce Landmark Strategic Alliance, Accelerating Innovation and Research Across Central Pennsylvania and Northern Maryland
+**Strategic relevance:** Trend indicator / Risk. Sectra’s financial trajectory supports the market shift toward cloud enterprise imaging and recurring software economics, raising competitive expectations for platform stickiness, cybersecurity credibility and AI integration.
 
-**Author:** Royal Philips  
-**Source:** [Euronext / Royal Philips](https://live.euronext.com/en/products/equities/company-news/2026-06-04-wellspan-health-and-philips-announce-landmark-strategic)  
-**Publication date:** June 4, 2026
+## SNMMI ShowCast Roundup
 
-Philips and WellSpan Health announced a seven-year strategic alliance covering imaging, diagnostics, research and innovation across WellSpan’s 12 hospitals and associated imaging and ambulatory sites. Philips becomes WellSpan’s preferred vendor across CT, MR, digital X-ray, ultrasound and image-guided therapy. The agreement includes lifecycle management for equipment, service, training and upgrades, plus joint validation of AI and digital tools aimed at improving throughput, cost and workflow efficiency. This is competitively relevant because it converts a regional health system into a long-term Philips platform account while creating a real-world environment for AI-enabled product co-development.
+- **Author:** Will Morton
+- **Source:** [AuntMinnie](https://www.auntminnie.com/clinical-news/molecular-imaging/nuclear-medicine/article/15826840/snmmi-showcast-roundup)
+- **Publication date:** June 5, 2026
 
-**Strategic relevance:**  
-**Risk / Opportunity.** The alliance shows how major imaging vendors are competing through enterprise standardization and co-development partnerships, not only through modality performance. Similar customer-lock-in models may become increasingly important for defending installed base and gaining evidence for AI workflow claims.
+AuntMinnie’s SNMMI 2026 roundup highlights a broadening molecular imaging agenda, with attention extending from oncology and theranostics toward cardiac PET and brain imaging. The article also notes machine-learning work for predicting radiation dose to tumors and healthy organs before radiopharmaceutical therapy, alongside multiple new radiotracer and therapy concepts presented at the meeting.
 
-## QT Imaging Receives Saudi Arabia FDA Regulatory Clearance
+The competitive implication is that molecular imaging is becoming a broader platform battleground. Vendors with PET/CT, SPECT/CT, radiopharmaceutical, quantitative analytics and workflow software assets are positioned to benefit if nuclear medicine demand expands beyond oncology into cardiology and neurology. The emphasis on dosimetry and predictive AI also reinforces the strategic importance of quantitative software as a differentiator in theranostics workflows.
 
-**Author:** QT Imaging Holdings / Business Wire  
-**Source:** [BioSpace](https://www.biospace.com/press-releases/qt-imaging-receives-saudi-arabia-fda-regulatory-clearance)  
-**Publication date:** June 4, 2026
-
-QT Imaging received Saudi Food and Drug Authority clearance for its Breast Acoustic CT scanner, enabling marketing and deployment in Saudi Arabia under its distribution agreement with Gulf Medical Co. The approval follows prior clearance in the United Arab Emirates and gives QT Imaging a regulatory foothold in the two largest Gulf healthcare markets. The product is positioned as radiation-free, compression-free 3D breast imaging, which may appeal to health systems investing in women’s health access and patient-friendly screening pathways. While QT Imaging remains a smaller player, the clearance is relevant because it supports regional commercialization of a differentiated breast imaging modality outside the traditional mammography and ultrasound categories.
-
-**Strategic relevance:**  
-**Observation / Trend indicator.** Alternative breast imaging technologies continue to seek market entry through international regulatory pathways and distributor-led commercialization. The near-term competitive impact is limited, but adoption in high-investment Gulf markets could create reference sites and pressure established breast imaging vendors to emphasize patient experience, access and differentiated workflow value.
+**Strategic relevance:** Trend indicator. The field continues to move toward integrated molecular imaging ecosystems combining hardware, tracers, analytics and therapy-planning workflows.
