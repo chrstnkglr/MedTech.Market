@@ -1,10 +1,11 @@
-# Competition Update – MedTech Market – 2026-06-07
+# Competition Update – MedTech Market – June 8, 2026
 
 ## tl;dr
-- No sufficiently relevant, validated competition news was identified within the last 24 hours.
-- Checked recent coverage patterns from major imaging, radiology, FDA/regulatory, medtech, and company-news channels.
-- No new dated items were found that met the criteria for competitive relevance in imaging modalities, AI/software, workflow productivity, regulatory approvals, or strategic partnerships.
-- No duplicate or previously covered topic from the supplied repository context was reintroduced.
+No sufficiently relevant, validated competition news was identified within the last 24 hours. The reviewed industry and company sources did not show new competition-relevant developments dated June 7 or June 8, 2026. Recent visible items from key sources were either outside the 24-hour window or already covered in prior repository updates. No new validated developments were found for GE HealthCare, Philips, Canon Medical, United Imaging, or Samsung Medison in the defined window. The competitive landscape therefore shows no new reportable change today.
 
 ## Source validation
-No article with a reliable publication date within the last 24 hours was selected for inclusion.
+- [AuntMinnie Clinical News](https://www.auntminnie.com/clinical-news): latest visible items were dated June 5, 2026, outside the 24-hour window.
+- [AuntMinnie AI](https://www.auntminnie.com/imaging-informatics/artificial-intelligence): latest visible AI items were dated June 4, 2026 or earlier.
+- [Imaging Technology News FDA channel](https://www.itnonline.com/channel/fda): latest visible FDA imaging items were dated June 5, 2026 or earlier, with relevant topics already covered.
+- [Philips News & Insights](https://www.philips.com/a-w/about/news-and-insights.html): latest relevant visible items were June 4 and June 2, 2026, already outside the window or previously covered.
+- [Canon Medical Systems USA press releases](https://us.medical.canon/news/press-releases/): latest visible press release was May 1, 2026.
