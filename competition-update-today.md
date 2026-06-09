@@ -1,11 +1,21 @@
-# Competition Update – MedTech Market – June 8, 2026
+# Competition Update – MedTech Market – 2026-06-09
 
 ## tl;dr
-No sufficiently relevant, validated competition news was identified within the last 24 hours. The reviewed industry and company sources did not show new competition-relevant developments dated June 7 or June 8, 2026. Recent visible items from key sources were either outside the 24-hour window or already covered in prior repository updates. No new validated developments were found for GE HealthCare, Philips, Canon Medical, United Imaging, or Samsung Medison in the defined window. The competitive landscape therefore shows no new reportable change today.
+- One validated competition-relevant item was identified within the last 24 hours.
+- Perimeter Medical Imaging AI strengthened its balance sheet through a completed convertible debenture financing, supporting commercialization of its FDA-approved AI-enabled intraoperative breast imaging device.
+- The news is relevant as a signal of continued investor backing for AI-assisted imaging at the point of care, particularly in breast-conserving surgery workflows.
+- No new validated updates were identified from GE HealthCare, Philips, Canon Medical, United Imaging, or Samsung Medison within the screened 24-hour window that met the relevance and date criteria.
+- The broader competitive pattern remains that smaller AI-imaging specialists are moving from regulatory clearance toward commercialization funding, creating potential partnership, acquisition, or competitive adjacency opportunities for larger imaging vendors.
 
-## Source validation
-- [AuntMinnie Clinical News](https://www.auntminnie.com/clinical-news): latest visible items were dated June 5, 2026, outside the 24-hour window.
-- [AuntMinnie AI](https://www.auntminnie.com/imaging-informatics/artificial-intelligence): latest visible AI items were dated June 4, 2026 or earlier.
-- [Imaging Technology News FDA channel](https://www.itnonline.com/channel/fda): latest visible FDA imaging items were dated June 5, 2026 or earlier, with relevant topics already covered.
-- [Philips News & Insights](https://www.philips.com/a-w/about/news-and-insights.html): latest relevant visible items were June 4 and June 2, 2026, already outside the window or previously covered.
-- [Canon Medical Systems USA press releases](https://us.medical.canon/news/press-releases/): latest visible press release was May 1, 2026.
+## Perimeter Medical Imaging AI Closes Final Tranche of Non-Brokered Private Placement
+
+**Author:** Perimeter Medical Imaging AI Inc.  
+**Source:** [Newswire Canada](https://www.newswire.ca/news-releases/perimeter-medical-imaging-ai-closes-final-tranche-of-non-brokered-private-placement-887977809.html)  
+**Publication date:** June 8, 2026, 08:00 ET
+
+Perimeter Medical Imaging AI announced the closing of the second and final tranche of a non-brokered private placement of convertible debentures. The company issued C$3.28 million in principal amount under the second tranche, bringing the total debenture issuance to C$6.04 million. Proceeds are intended for working capital and general corporate purposes.
+
+The release is competitively relevant because Perimeter is commercializing Claire, an FDA-approved AI-enabled OCT system for intraoperative breast cancer margin assessment. The system provides real-time volumetric cross-sectional imaging with an AI computer-aided detection algorithm to identify suspicious focal areas in excised lumpectomy tissue. This places Perimeter in a workflow-adjacent segment where imaging, AI, and surgical decision support converge.
+
+**Strategic relevance:**  
+**Observation / Trend indicator:** The financing supports a smaller AI-imaging specialist transitioning from regulatory approval toward commercial execution. For larger imaging vendors, this reinforces the attractiveness of intraoperative and point-of-care AI imaging as a potential expansion area beyond traditional radiology departments.
