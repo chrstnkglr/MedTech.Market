@@ -1,20 +1,21 @@
-# Competition Update – MedTech Market – June 12, 2026
+# Competition Update – MedTech Market – 2026-06-13
 
 ## tl;dr
-- One validated competition-relevant imaging item was identified within the last 24-hour publication window.
-- The main development is new clinical evidence supporting PSMA PET/CT as a triage step after equivocal or non-suspicious prostate mpMRI.
-- Strategically, this reinforces molecular imaging’s expansion from staging and recurrence assessment into earlier diagnostic workflow decision-making.
-- If adopted, the pathway could shift demand toward PET/CT capacity, PSMA tracer availability and integrated prostate imaging workflows.
-- No new validated competitor company announcements, FDA/CE clearances, acquisitions or strategic partnerships from GE HealthCare, Philips, Canon Medical, United Imaging or Samsung Medison were identified in the checked sources during the window.
+- One validated competition-relevant item was identified within the last 24 hours.
+- No new directly relevant imaging-OEM announcements from GE HealthCare, Philips, Canon Medical, United Imaging or Samsung Medison were validated in the reviewed window.
+- The notable development is Penumbra’s FDA clearance for Thunderbolt, a computer-assisted vacuum thrombectomy system for acute ischemic stroke.
+- Strategically, the clearance strengthens Boston Scientific’s pending acquisition rationale by adding a newly cleared neurovascular growth asset.
+- The development reinforces the broader shift toward image-guided therapy ecosystems where device innovation, procedural efficiency and M&A increasingly intersect.
+- For imaging competitors, the relevance is indirect but material: neurovascular intervention growth can shape demand for angiography-suite workflow, procedural guidance and integrated stroke-care pathways.
 
-## Study: PSMA PET/CT Reduces Biopsy Rate by Nearly 50 Percent for Men with Equivocal or Non-Suspicious Prostate mpMRI
+## Penumbra’s FDA nod for clot removal tech a win for Boston Scientific
 
-**Author:** Jeff Hall  
-**Source:** [Diagnostic Imaging](https://www.diagnosticimaging.com/view/study-psma-pet-ct-reduces-biopsy-rate-nearly-50-percent-men-equivocal-non-suspicious-prostate-mpmri)  
-**Publication date:** June 11, 2026
+**Author:** Susan Kelly  
+**Source:** [MedTech Dive](https://www.medtechdive.com/news/penumbras-fda-nod-for-clot-removal-tech-a-win-for-boston-scientific/822816/)  
+**Publication date:** June 12, 2026
 
-Diagnostic Imaging reported newly published PRIMARY2 trial findings showing that PSMA PET/CT triage in biopsy-naïve men with PI-RADS 2 or 3 prostate mpMRI findings reduced biopsies by 49% while maintaining non-inferior detection of clinically significant prostate cancer versus systematic transperineal biopsy. The study also found lower detection of clinically insignificant prostate cancer, indicating potential to reduce overdiagnosis and unnecessary interventions.
+Penumbra received FDA clearance for Thunderbolt, a computer-assisted vacuum thrombectomy system for clot removal in acute ischemic stroke. The article positions the clearance as strategically important for Boston Scientific, which agreed to acquire Penumbra for approximately $14.5 billion to expand in mechanical thrombectomy and neurovascular markets. The system introduces modulated aspiration technology intended to support faster and more complete clot removal, potentially strengthening Penumbra’s differentiation in neurovascular intervention.
 
-From a market perspective, the finding strengthens the case for PSMA PET/CT as a workflow-shaping diagnostic tool, not only as a staging or therapy-selection modality. If validated further and supported by reimbursement, this could increase PET/CT utilization in prostate cancer pathways and raise the strategic importance of molecular imaging access, tracer logistics and prostate-specific workflow integration.
+The competitive relevance is adjacent to diagnostic imaging but important for image-guided therapy. Neurovascular thrombectomy depends on interventional imaging infrastructure, procedural workflow and rapid stroke-care pathways. If Thunderbolt gains adoption, it may increase competitive pressure around integrated stroke intervention environments, including angiography-suite efficiency, device compatibility and end-to-end care-pathway support.
 
-**Strategic relevance:** Trend indicator / Opportunity. The evidence supports broader molecular imaging adoption in earlier prostate cancer workups, potentially benefiting vendors with strong PET/CT portfolios, radiopharmaceutical partnerships and oncology workflow software.
+**Strategic relevance:** Trend indicator / Risk. Boston Scientific’s pending acquisition of Penumbra is gaining regulatory and commercial validation, reinforcing consolidation around high-growth image-guided neurovascular intervention.
