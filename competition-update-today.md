@@ -1,23 +1,22 @@
-# Competition Update – MedTech Market – June 18, 2026
+# Competition Update – MedTech Market – 2026-06-19
 
 ## tl;dr
-- One validated competition-relevant item was identified within the 24-hour window.
-- The development concerns an FDA-highlighted shortage of breast biopsy needles linked to Hologic’s Brevera Breast Biopsy System.
-- The issue is operationally relevant for women’s imaging and image-guided breast biopsy workflows, with potential delays to diagnostic pathways.
-- The shortage is expected to continue into March 2027, making this more than a short-term supply disruption.
-- Strategically, the situation may increase provider interest in alternative biopsy device suppliers, inventory resilience, and workflow adaptations around breast imaging procedures.
-- No new validated announcements from GE HealthCare, Philips, Canon Medical, United Imaging, or Samsung Medison were identified in the reviewed 24-hour window.
+- One validated competition-relevant imaging workflow item was identified in the last 24-hour source window.
+- Coreline Soft and Mint Medical are moving from point AI toward integrated screening workflow infrastructure for lung cancer programs.
+- The announcement is strategically relevant because Germany’s reimbursed LDCT lung screening framework creates demand for scalable double-reading, CAD, structured reporting and follow-up management.
+- The development reinforces a market pattern: AI value is shifting from standalone detection algorithms to embedded, multi-site operational workflow platforms.
+- For imaging vendors and enterprise imaging players, this raises the competitive importance of open AI orchestration, structured reporting integration and longitudinal disease management.
+- No new validated competition-relevant news from GE HealthCare, Philips, Canon Medical, United Imaging or Samsung Medison was identified in the reviewed 24-hour window that was not already covered in the repository.
 
-## FDA warns breast biopsy needle shortage to continue into 2027
+## Coreline Soft and Mint Medical Announce Partnership to Advance AI-Enabled Lung Cancer Screening
 
-**Author:** Elise Reuter  
-**Source:** [MedTech Dive](https://www.medtechdive.com/news/fda-warns-breast-biopsy-needle-shortage-to-continue-into-2027/823154/)  
-**Publication date:** June 17, 2026
+**Author:** Coreline Soft; no individual author stated  
+**Source:** [PR Newswire](https://www.prnewswire.com/news-releases/coreline-soft-and-mint-medical-announce-partnership-to-advance-ai-enabled-lung-cancer-screening-302803796.html)  
+**Publication date:** June 18, 2026, 03:00 ET
 
-The FDA warned healthcare providers that the shortage of breast biopsy needles is expected to continue through March 2027. The shortage follows Hologic’s January removal of all lots of 9-gauge needles for its Brevera Breast Biopsy System because of a risk that metal and plastic particles could be dislodged during procedures. The FDA indicated that the shortage may affect patient care and require changes to clinical management for patients scheduled for breast biopsy.
+Coreline Soft and Mint Medical announced a partnership integrating Coreline Soft’s AVIEW chest CT AI platform into Mint Medical’s mint Lesion structured reporting and imaging data management platform. The collaboration targets AI-enabled lung cancer screening workflows, initially in Germany, where LDCT-based screening entered statutory reimbursement in April 2026. The integrated workflow links pulmonary nodule detection, multi-disease chest CT analysis, structured reporting, longitudinal nodule tracking and multi-site reading management.
 
-For imaging providers, the issue is relevant because breast biopsy is closely tied to diagnostic breast imaging pathways. The FDA recommended conservation strategies, supplier diversification, inventory monitoring, and demand forecasting based on scheduled biopsy volumes. Hologic has stated that it is expanding manufacturing shifts and expediting orders, while also updating Brevera so it can be used as a standalone imaging unit.
+The competitive significance is that the partnership addresses a system-level workflow requirement rather than a narrow algorithmic use case. Germany’s framework requires double reading, CAD software, quality assurance, longitudinal follow-up and GDPR-compliant multi-site data management. This creates a reference market for integrated AI and reporting infrastructure that could be replicated in other national screening programs.
 
-**Strategic relevance**
-
-**Risk / Opportunity:** The prolonged shortage may create operational pressure in breast imaging centers and could open room for competing biopsy device suppliers or alternative workflow configurations. For imaging vendors, the case reinforces the strategic importance of consumables reliability, supply-chain resilience, and procedure-level workflow continuity in women’s health portfolios.
+### Strategic relevance
+**Trend indicator / Risk:** The partnership strengthens the competitive position of vendor-neutral AI workflow ecosystems in lung cancer screening. For major imaging vendors, it underlines that CT screening competitiveness will increasingly depend on integrated software, reporting and follow-up infrastructure around the scanner, not only scanner performance or AI detection accuracy.
