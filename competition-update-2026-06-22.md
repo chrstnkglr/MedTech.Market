@@ -1,0 +1,4 @@
+# Competition Update – MedTech Market – 2026-06-22
+
+## tl;dr
+No sufficiently relevant, validated competition news was identified within the last 24 hours. Checked industry and company source pages did not show new dated items since June 21, 2026 relevant to imaging modalities, imaging AI/software, workflow productivity, regulatory clearances, or strategic partnerships among the tracked competitive set. The latest visible items on the monitored imaging and MedTech sources were outside the eligible 24-hour window or had already been covered in prior repository updates. No new competitive signal is therefore added for today.
