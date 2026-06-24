@@ -1,21 +1,15 @@
-# Competition Update – MedTech Market – 2026-06-23
+# Competition Update – MedTech Market – June 24, 2026
 
 ## tl;dr
-- No new core diagnostic imaging competitor news from GE HealthCare, Philips, Canon Medical, United Imaging, or Samsung Medison was identified within the validated last-24-hour window.
-- The only competition-relevant item found is an adjacent medtech development: Karl Storz is restructuring its Asensus Surgical robotics acquisition and discontinuing standalone robotics hardware development.
-- The move shifts emphasis from a dedicated robotic platform toward integrating software, clinical data, IP, intelligent imaging, and connected-system capabilities into the broader Karl Storz surgical ecosystem.
-- Strategically, this reinforces a broader market pattern: value is moving from standalone hardware platforms toward workflow-integrated, data-enabled procedural ecosystems.
-- For imaging and digital platform competitors, the development is an adjacent signal rather than a direct modality-level threat.
-- Duplicate screening against the provided repository context did not identify prior coverage of this topic or URL.
+One validated competition-relevant item was identified in the last 24 hours. The main development is not an incumbent imaging OEM announcement, but a potential market-shaping entry by Midjourney into ultrasound-based full-body scanning. The strategic relevance lies less in near-term clinical substitution and more in the attempt to reposition imaging as a consumer-accessible, AI-enabled wellness workflow. Expert commentary highlights major evidence, physics, workflow, and regulatory gaps, especially around comparisons with MRI and CT. The development reinforces a broader pattern: non-traditional AI companies are testing entry points around imaging data, preventive health, and consumer channels before pursuing regulated diagnostic use cases. For established MedTech imaging players, the near-term risk is narrative and customer expectation pressure rather than direct clinical competition. No validated new direct announcements from GE HealthCare, Philips, Canon Medical, United Imaging, or Samsung Medison were identified within the reviewed 24-hour window.
 
-## Karl Storz laying off employees in North Carolina amid robotics strategy shift
+## Something’s off with Midjourney’s pivot to body scanners
 
-**Author:** Susan Kelly  
-**Source:** [MedTech Dive](https://www.medtechdive.com/news/karl-storz-laying-off-employees-in-north-carolina-amid-robotics-strategy-sh/823428/)  
-**Publication date:** June 22, 2026
+**Author:** Robert Hart  
+**Source:** [The Verge](https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence)  
+**Publication date:** June 23, 2026, 3:56 PM UTC
 
-Karl Storz will lay off 108 employees at the North Carolina headquarters of Asensus Surgical, the robotics company it acquired in 2024. The company plans to discontinue development of Asensus’ standalone Luna robotics hardware and phase out the Senhance robotic platform, while integrating Asensus’ software engineering expertise, clinical data, and intellectual property into Karl Storz’s wider R&D organization. The Asensus brand will be retired, and future developments will be consolidated under Karl Storz.
+Midjourney’s announced move into full-body ultrasound scanning is drawing scrutiny from radiology and imaging experts, who question the evidentiary basis for the company’s comparisons with MRI and CT. The proposed system would use underwater ultrasound sensors to generate body-composition-oriented 3D maps, initially positioned as a wellness product rather than a diagnostic medical device. The article notes that Midjourney is using AI and specialized chips to manage large data volumes, compression, and processing, but expert commentary emphasizes that the company has not yet shown sufficient clinical validation or image-quality proof. Key limitations cited include ultrasound penetration constraints, barriers created by air and bone, water-quality requirements, scan reliability across body types, and unclear separation between wellness information and medical claims. Midjourney’s stated ambition to expand authorized use cases through future FDA engagement indicates a possible staged regulatory strategy: enter through wellness, build user adoption and data infrastructure, then pursue clinical indications later.
 
-The competitive relevance is primarily adjacent to diagnostic imaging, but meaningful for procedural imaging and digital ecosystems. Karl Storz appears to be moving away from a separate robotic hardware bet and toward embedding intelligent imaging, connected systems, and software capabilities into its broader surgical portfolio. This reflects a strategic pattern also relevant to imaging vendors: differentiation is increasingly tied to platform integration, workflow intelligence, and data leverage rather than isolated device performance.
-
-**Strategic relevance:** Observation / Trend indicator. The development signals continued consolidation of hardware, software, imaging, and workflow capabilities in procedure-focused medtech ecosystems, with potential implications for image-guided therapy and operating-room platform strategies.
+**Strategic relevance:**  
+**Trend indicator / Risk.** This is not a near-term threat to regulated CT, MR, or diagnostic ultrasound portfolios, but it is strategically relevant because it shows a well-capitalized AI-native entrant attempting to redefine imaging around consumer access, speed, frequency, and body-data ownership. Incumbent imaging vendors should monitor whether such models influence customer expectations around scan convenience, preventive imaging, and AI-enabled image interpretation, while emphasizing clinical evidence, regulatory credibility, and integrated diagnostic workflows as differentiation points.
