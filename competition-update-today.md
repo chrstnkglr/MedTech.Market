@@ -1,15 +1,29 @@
-# Competition Update – MedTech Market – June 24, 2026
+# Competition Update – MedTech Market – June 25, 2026
 
 ## tl;dr
-One validated competition-relevant item was identified in the last 24 hours. The main development is not an incumbent imaging OEM announcement, but a potential market-shaping entry by Midjourney into ultrasound-based full-body scanning. The strategic relevance lies less in near-term clinical substitution and more in the attempt to reposition imaging as a consumer-accessible, AI-enabled wellness workflow. Expert commentary highlights major evidence, physics, workflow, and regulatory gaps, especially around comparisons with MRI and CT. The development reinforces a broader pattern: non-traditional AI companies are testing entry points around imaging data, preventive health, and consumer channels before pursuing regulated diagnostic use cases. For established MedTech imaging players, the near-term risk is narrative and customer expectation pressure rather than direct clinical competition. No validated new direct announcements from GE HealthCare, Philips, Canon Medical, United Imaging, or Samsung Medison were identified within the reviewed 24-hour window.
+- No new validated announcements from GE HealthCare, Philips, Canon Medical, United Imaging, or Samsung Medison were identified in the reviewed 24-hour window.
+- The most competition-relevant development is HOPPR’s launch of a reporting agent that integrates AI findings into existing radiology reporting workflows, reinforcing the shift from standalone AI detection toward embedded workflow productivity.
+- A UPMC investment in a new interventional radiology suite indicates continued provider demand for advanced image-guided procedure capacity, although the article does not identify the equipment vendor.
+- The competitive signal remains strongest in workflow automation and operational efficiency rather than new modality hardware launches.
 
-## Something’s off with Midjourney’s pivot to body scanners
+## HOPPR launches Presto AI reporting agent for radiology
 
-**Author:** Robert Hart  
-**Source:** [The Verge](https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence)  
-**Publication date:** June 23, 2026, 3:56 PM UTC
+**Author:** AuntMinnie.com staff writers  
+**Source:** [AuntMinnie](https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15828475/hoppr-launches-presto-ai-reporting-agent-for-radiology)  
+**Publication date:** June 24, 2026
 
-Midjourney’s announced move into full-body ultrasound scanning is drawing scrutiny from radiology and imaging experts, who question the evidentiary basis for the company’s comparisons with MRI and CT. The proposed system would use underwater ultrasound sensors to generate body-composition-oriented 3D maps, initially positioned as a wellness product rather than a diagnostic medical device. The article notes that Midjourney is using AI and specialized chips to manage large data volumes, compression, and processing, but expert commentary emphasizes that the company has not yet shown sufficient clinical validation or image-quality proof. Key limitations cited include ultrasound penetration constraints, barriers created by air and bone, water-quality requirements, scan reliability across body types, and unclear separation between wellness information and medical claims. Midjourney’s stated ambition to expand authorized use cases through future FDA engagement indicates a possible staged regulatory strategy: enter through wellness, build user adoption and data infrastructure, then pursue clinical indications later.
+HOPPR launched Presto Agent, an AI reporting tool designed to bring AI-generated draft reporting into existing radiology reporting systems without requiring platform migration. The tool uses AI findings selected by the radiology practice, imports them into existing report templates, organizes dictated text, and can pull measurements from DEXA images, scanned PDFs, and ultrasound worksheets. Initial availability is for PowerScribe 360 and PowerScribe One, with additional integrations planned.
 
 **Strategic relevance:**  
-**Trend indicator / Risk.** This is not a near-term threat to regulated CT, MR, or diagnostic ultrasound portfolios, but it is strategically relevant because it shows a well-capitalized AI-native entrant attempting to redefine imaging around consumer access, speed, frequency, and body-data ownership. Incumbent imaging vendors should monitor whether such models influence customer expectations around scan convenience, preventive imaging, and AI-enabled image interpretation, while emphasizing clinical evidence, regulatory credibility, and integrated diagnostic workflows as differentiation points.
+**Trend indicator.** The launch points to a competitive move away from isolated AI algorithms toward workflow-native automation that reduces reporting friction. For imaging vendors and enterprise imaging platform providers, this increases pressure to offer open, integrated AI orchestration and reporting capabilities rather than relying only on modality-linked AI features.
+
+## UPMC opens $8M new interventional radiology suite
+
+**Author:** Marty Stempniak  
+**Source:** [Radiology Business](https://radiologybusiness.com/topics/medical-imaging/interventional-radiology/upmc-opens-8m-new-interventional-radiology-suite)  
+**Publication date:** June 24, 2026
+
+UPMC Williamsport opened an $8 million interventional radiology suite with two upgraded labs and next-generation imaging systems. The investment is intended to expand local access to minimally invasive procedures, including stent placements and balloon angioplasties, while supporting growth across vascular care and other specialties. The article does not disclose the imaging system vendor.
+
+**Strategic relevance:**  
+**Observation.** The investment reflects continuing provider prioritization of image-guided therapy capacity and procedural throughput. Although no vendor is named, such capital projects remain important demand signals for angiography and interventional imaging portfolios, especially where hospitals are expanding minimally invasive care closer to regional patient populations.

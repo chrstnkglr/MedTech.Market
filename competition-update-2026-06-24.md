@@ -1,0 +1,15 @@
+# Competition Update – MedTech Market – June 24, 2026
+
+## tl;dr
+One validated competition-relevant item was identified in the last 24 hours. The main development is not an incumbent imaging OEM announcement, but a potential market-shaping entry by Midjourney into ultrasound-based full-body scanning. The strategic relevance lies less in near-term clinical substitution and more in the attempt to reposition imaging as a consumer-accessible, AI-enabled wellness workflow. Expert commentary highlights major evidence, physics, workflow, and regulatory gaps, especially around comparisons with MRI and CT. The development reinforces a broader pattern: non-traditional AI companies are testing entry points around imaging data, preventive health, and consumer channels before pursuing regulated diagnostic use cases. For established MedTech imaging players, the near-term risk is narrative and customer expectation pressure rather than direct clinical competition. No validated new direct announcements from GE HealthCare, Philips, Canon Medical, United Imaging, or Samsung Medison were identified within the reviewed 24-hour window.
+
+## Something’s off with Midjourney’s pivot to body scanners
+
+**Author:** Robert Hart  
+**Source:** [The Verge](https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence)  
+**Publication date:** June 23, 2026, 3:56 PM UTC
+
+Midjourney’s announced move into full-body ultrasound scanning is drawing scrutiny from radiology and imaging experts, who question the evidentiary basis for the company’s comparisons with MRI and CT. The proposed system would use underwater ultrasound sensors to generate body-composition-oriented 3D maps, initially positioned as a wellness product rather than a diagnostic medical device. The article notes that Midjourney is using AI and specialized chips to manage large data volumes, compression, and processing, but expert commentary emphasizes that the company has not yet shown sufficient clinical validation or image-quality proof. Key limitations cited include ultrasound penetration constraints, barriers created by air and bone, water-quality requirements, scan reliability across body types, and unclear separation between wellness information and medical claims. Midjourney’s stated ambition to expand authorized use cases through future FDA engagement indicates a possible staged regulatory strategy: enter through wellness, build user adoption and data infrastructure, then pursue clinical indications later.
+
+**Strategic relevance:**  
+**Trend indicator / Risk.** This is not a near-term threat to regulated CT, MR, or diagnostic ultrasound portfolios, but it is strategically relevant because it shows a well-capitalized AI-native entrant attempting to redefine imaging around consumer access, speed, frequency, and body-data ownership. Incumbent imaging vendors should monitor whether such models influence customer expectations around scan convenience, preventive imaging, and AI-enabled image interpretation, while emphasizing clinical evidence, regulatory credibility, and integrated diagnostic workflows as differentiation points.
