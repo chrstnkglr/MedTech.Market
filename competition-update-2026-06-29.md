@@ -1,0 +1,7 @@
+# Competition Update – MedTech Market – 2026-06-29
+
+## tl;dr
+No sufficiently relevant, validated competition news was identified within the last 24 hours. Current checks did not surface new, dated developments from GE HealthCare, Philips, Canon Medical, United Imaging, Samsung Medison, or other clearly market-shaping imaging and radiology AI players. The latest relevant items visible in key industry sources were already outside the 24-hour window or had been covered in prior repository updates. No new qualifying FDA/CE clearance, imaging platform launch, strategic partnership, acquisition, or workflow/productivity development was identified for inclusion.
+
+## Source validation
+Reviewed current listings from [AuntMinnie](https://www.auntminnie.com/clinical-news), [Radiology Business](https://radiologybusiness.com/topics/medical-imaging), [MedTech Dive](https://www.medtechdive.com/topic/medical-devices/), [ITN FDA channel](https://www.itnonline.com/channel/fda), [GE HealthCare press releases](https://www.gehealthcare.com/en-us/about/newsroom/press-releases), [Philips News & Insights](https://www.philips.com/a-w/about/news-and-insights.html), [Canon Medical press releases](https://us.medical.canon/news/press-releases/), and [PR Newswire Health](https://www.prnewswire.com/news-releases/health-latest-news/health-latest-news-list/).
