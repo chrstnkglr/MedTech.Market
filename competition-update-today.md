@@ -1,30 +1,16 @@
-# Competition Update – MedTech Market – July 7, 2026
+# Competition Update – MedTech Market – July 8, 2026
 
 ## tl;dr
-- No new competition-relevant announcements from GE HealthCare, Philips, Canon Medical, United Imaging or Samsung Medison were validated in the last 24 hours.
-- The most relevant imaging-specific development is Exact Imaging’s U.S. commercial expansion for its ExactVu micro-ultrasound prostate cancer platform.
-- Strategically, this reinforces continued challenger activity around prostate imaging workflows, especially alternatives or complements to MRI-guided pathways.
-- MedTech Dive’s latest H1 2026 M&A review confirms that capital allocation remains concentrated around faster-growth segments, including digital pathology, cath lab AI and image-enabled cardiovascular interventions.
-- The competitive pattern remains consistent: companies are using M&A, selective commercial build-out and AI-enabled workflow tools to capture procedural volume, improve productivity and differentiate outside traditional hardware-only competition.
+Only one validated competition-relevant item was identified within the latest review window. QT Imaging reported a clean first routine FDA inspection, with zero Form 483 observations. This is not a new product clearance, but it strengthens the company’s regulatory credibility as it scales manufacturing and commercialization. The competitive relevance is mainly operational: smaller imaging challengers that can demonstrate FDA-ready quality systems may become more credible alternatives, partners or acquisition targets in breast imaging. No new validated competition-relevant news was identified for GE HealthCare, Philips, Canon Medical, United Imaging or Samsung Medison in the reviewed 24-hour window.
 
-## Exact Imaging boosts U.S. commercial team for next-gen prostate cancer testing tech
+## QT Imaging Successfully Completes First FDA Inspection with Zero Observations
 
-**Author:** Ben Adams  
-**Source:** [Fierce Biotech](https://www.fiercebiotech.com/medtech/exact-imaging-boosts-us-commercial-team-next-gen-prostate-cancer-testing-tech)  
-**Publication date:** July 6, 2026, 7:47am  
+- **Author:** Imaging Technology News staff
+- **Source:** [Imaging Technology News](https://www.itnonline.com/content/qt-imaging-successfully-completes-first-fda-inspection%C2%A0-zero-observations)
+- **Publication date:** July 7, 2026
 
-Exact Imaging is expanding its U.S. commercial organization to support broader adoption of ExactVu, its high-resolution micro-ultrasound system for prostate cancer screening and targeted biopsy. The company positions the system as a technology that can complement or potentially improve on traditional MRI-based prostate cancer localization workflows, with the aim of supporting clearer lesion visualization during biopsy. The commercial move includes promotion of Tim Heyer to VP of North American Sales and the addition of a Northeast sales executive.
+QT Imaging announced that its first routine FDA inspection concluded with zero Form 483 observations. The inspection reviewed the company’s Quality Management System and related operational processes, with the company positioning the result as evidence of quality-system maturity and readiness to support manufacturing scale-up, global commercialization and a growing customer base.
 
-**Strategic relevance:**  
-**Observation / Risk.** While Exact Imaging is not a full-line imaging OEM, its commercial expansion is competition-relevant because it targets a high-value diagnostic pathway where MRI, ultrasound and biopsy guidance intersect. If micro-ultrasound gains clinical and commercial traction, it could pressure MRI-centric prostate workflows and create demand for more integrated urology-imaging solutions.
+This item does not represent a new regulatory clearance or product launch. Its competitive relevance lies in execution credibility: for an emerging breast imaging player, a clean FDA inspection can reduce perceived operational risk among customers, investors and potential strategic partners. It may also support QT Imaging’s ability to compete for institutional adoption where procurement teams weigh quality-system robustness alongside modality performance and clinical differentiation.
 
-## Top 10 medtech deals in the first half of 2026
-
-**Author:** Nick Paul Taylor  
-**Source:** [MedTech Dive](https://www.medtechdive.com/news/top-10-medtech-deals-in-the-first-half-of-2026/824435/)  
-**Publication date:** July 6, 2026  
-
-MedTech Dive’s H1 2026 M&A review highlights continued deal activity in higher-growth medtech segments. The article identifies large transactions including Boston Scientific’s planned Penumbra acquisition, Roche’s PathAI acquisition, Agilent’s Biocare Medical acquisition and Medtronic’s CathWorks acquisition. For imaging-adjacent competition, the most relevant signals are Roche’s move to scale digital pathology globally and Medtronic’s acquisition of AI/computational coronary assessment technology using routine angiography images.
-
-**Strategic relevance:**  
-**Trend indicator.** The article reinforces that strategic buyers are prioritizing software-enabled diagnostics, interventional workflow expansion and procedure-adjacent AI rather than relying solely on core device growth. For imaging competitors, this increases the importance of platform integration, workflow ownership and partnerships across radiology, pathology and interventional cardiology.
+**Strategic relevance:** Observation. QT Imaging’s clean FDA inspection is an operational validation signal that could improve its credibility as a breast imaging challenger, although near-term competitive impact remains dependent on commercial traction, reimbursement positioning and clinical adoption.
